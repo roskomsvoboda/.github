@@ -4,6 +4,6 @@
 
 ### Contributing
 
-We contribute to the tools we rely on to bypass censorship, while also maintaining our own open source projects like:
+We contribute to the tools we rely on, while also maintaining our own open source projects like:
 
 - [CensorTracker](https://github.com/roskomsvoboda/censortracker) - is a censorship circumvention extension for Google Chrome and Mozilla Firefox. 
